@@ -202,7 +202,7 @@ This project was developed as part of the **Infosys Springboard Virtual Internsh
 
 **Year: 2026**
 
-## 📌 Notes
+## 📌 Note
 
 * This project was developed as part of the **Infosys Springboard Virtual Internship 7.0**.
 * All data and resources used in the project are intended for **educational and demonstration purposes**.
