@@ -133,7 +133,7 @@ Here’s an overview of the files in this repository:
 * To provide interactive dashboards for meaningful cybersecurity analysis.
 * To demonstrate the practical application of Power BI and Business Intelligence in cybersecurity analytics.
 
-## 👥 Team Learnings & Outcomes
+## 👥 Learnings & Outcomes
 
 Through this project, I strengthened both my technical and soft skills.
 
