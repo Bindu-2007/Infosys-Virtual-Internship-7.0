@@ -1,4 +1,4 @@
-# Cyber Threat Analytics Platform with Incident Visualization
+# Cyber Threat Analytics Platform with Incident Visualization System
 
 ## 🚀 Project Overview
 
