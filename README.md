@@ -21,6 +21,7 @@ The project demonstrates how Business Intelligence and data visualization can be
 Here’s an overview of the files in this repository:
 
 * `Dashboard/` – Main Power BI project file
+* `Dataset/` - Dataset used for the project 
 * `PPT/` – Project presentation slides
 * `Report/` – Internship completion report
 * `LICENSE` – License file
